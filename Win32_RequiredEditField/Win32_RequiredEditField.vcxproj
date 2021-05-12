@@ -151,6 +151,7 @@
     <ResourceCompile Include="Win32_RequiredEditField.rc" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="AIWinResults.png" />
     <Image Include="small.ico" />
     <Image Include="Win32_RequiredEditField.ico" />
   </ItemGroup>
